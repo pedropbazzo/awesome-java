@@ -2,7 +2,7 @@
 
 A curated list of awesome Java frameworks, libraries and software.
 
-## Contents
+## Contents 
 
 - [Projects](#projects)
   - [Bean Mapping](#bean-mapping)
